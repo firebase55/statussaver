@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/statusbar_bg</color>
+    <color name="colorPrimaryDark">@color/statusbar_bg</color>
+    <color name="colorAccent">@color/statusbar_bg</color>
+
+
+    <!--UI Colors-->
+    <color name="splash_bg">#03314D</color>
+    <color name="statusbar_bg">#03314D</color>
+    <color name="title_text_color">#ffffff</color>
+    <color name="rectangle_bg">#EBF2F4</color>
+    <color name="home_tab_bg">#03314D</color>
+    <color name="home_tab_icon">#03ac1a</color>
+    <color name="home_btn_bg">#FFFFFF</color>
+    <color name="home_btn_txt">#000000</color>
+    <color name="home_btn_right_icon">#03314D</color>
+    <color name="sub_bg">#EBF2F4</color>
+    <color name="paste_rec_bg">#25ffffff</color>
+    <color name="tab_press_bg">#03ac1a</color>
+    <color name="tab_unpress_bg">#ffffff</color>
+    <color name="tab_press_text_color">#ffffff</color>
+    <color name="tab_unpress_text_color">#03314D</color>
+    <color name="help_text">#03314D</color>
+    <color name="help_bg">#FFFFFF</color>
+    <color name="recent_download_btn">#03ac1a</color>
+    <color name="paste_link_bg">#ffffff</color>
+    <color name="download_btn_bg">#03ac1a</color>
+    <color name="download_btn_text_color">#ffffff</color>
+    <color name="header_text_color">#FFFFFF</color>
+
+</resources>
